@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>E:\Projects\Sort\x64\Release\SortTest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="SortTest.SortCorrect" Duration="4" />
+  </TestDurations>
+</GtaTestDurations>
